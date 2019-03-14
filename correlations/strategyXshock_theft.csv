@@ -1,0 +1,10 @@
+	Theft					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	57%	217	64%	27	58%	244
+Neutral	11%	42	14%	6	11%	48
+Optimal	32%	122	21%	9	31%	131
+Total	100%	381	100%	42	100%	423
+
+Pearson chi2(2) = 2.0777 Pr = 0.354						
+

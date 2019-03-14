@@ -1,0 +1,10 @@
+	Bank					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	49%	21	53%	83	52%	104
+Neutral	21%	9	7%	11	10%	20
+Optimal	30%	13	41%	64	38%	77
+Total	100%	43	100%	158	100%	201
+
+Pearson chi2(2) = 7.6484 Pr = 0.022						
+

@@ -1,0 +1,10 @@
+	How much money do you usually have in your account at month's end?													
+Strategy	Less Than R100	Less Than R100	R101 To R200	R101 To R200	R201 To R500	R201 To R500	R501 To R1000	R501 To R1000	More Than R1000	More Than R1000	Refuse	Refuse	Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	67%	2	0%	0	33%	1	20%	1	50%	3	100%	2	43%	9
+Neutral	0%	0	0%	0	0%	0	0%	0	33%	2	0%	0	10%	2
+Optimal	33%	1	100%	2	67%	2	80%	4	17%	1	0%	0	48%	10
+Total	100%	3	100%	2	100%	3	100%	5	100%	6	100%	2	100%	21
+
+Pearson chi2(10) = 13.2922 Pr = 0.208														
+

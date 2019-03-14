@@ -1,0 +1,13 @@
+	What is the highest grade in school that you have successfully completed?									
+How much money do you usually have in your account at month's end?	9	9	10	10	11	11	12	12	Total	Total
+	%	N	%	N	%	N	%	N	%	N
+Less Than R100	0%	0	33%	1	12%	1	7%	1	10%	3
+R101 To R200	0%	0	0%	0	12%	1	20%	3	14%	4
+R201 To R500	0%	0	33%	1	25%	2	7%	1	14%	4
+R501 To R1000	67%	2	0%	0	12%	1	20%	3	21%	6
+More Than R1000	33%	1	33%	1	25%	2	20%	3	24%	7
+Refuse	0%	0	0%	0	12%	1	27%	4	17%	5
+Total	100%	3	100%	3	100%	8	100%	15	100%	29
+
+Pearson chi2(15) = 12.0356 Pr = 0.676										
+

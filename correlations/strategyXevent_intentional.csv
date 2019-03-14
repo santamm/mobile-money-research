@@ -1,0 +1,10 @@
+	event_intentional					
+Strategy	0	0	1	1	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	66%	123	51%	121	58%	244
+Neutral	12%	23	11%	25	11%	48
+Optimal	22%	41	38%	90	31%	131
+Total	100%	187	100%	236	100%	423
+
+Pearson chi2(2) = 12.9253 Pr = 0.002						
+

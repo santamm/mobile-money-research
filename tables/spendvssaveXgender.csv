@@ -1,0 +1,9 @@
+	Gender					
+Which of these two statements applies best to you?	Female	Female	Male	Male	Total	Total
+	%	N	%	N	%	N
+Save	62%	185	74%	171	68%	356
+Spend	38%	111	26%	59	32%	170
+Total	100%	296	100%	230	100%	526
+
+Pearson chi2(1) = 8.3058 Pr = 0.004						
+

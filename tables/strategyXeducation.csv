@@ -1,0 +1,10 @@
+	Education Level									
+Strategy	0-8	0-8	9-11	9-11	12	12	Tertiary	Tertiary	Total	Total
+	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	60%	58	59%	109	56%	57	49%	20	58%	244
+Neutral	14%	13	10%	19	10%	10	15%	6	11%	48
+Optimal	26%	25	31%	57	34%	34	37%	15	31%	131
+Total	100%	96	100%	185	100%	101	100%	41	100%	423
+
+Pearson chi2(6) = 3.3454 Pr = 0.764										
+

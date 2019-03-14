@@ -1,0 +1,10 @@
+	Food					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	53%	100	61%	144	58%	244
+Neutral	14%	26	9%	22	11%	48
+Optimal	33%	61	30%	70	31%	131
+Total	100%	187	100%	236	100%	423
+
+Pearson chi2(2) = 3.2536 Pr = 0.197						
+

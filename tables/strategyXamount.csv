@@ -1,0 +1,10 @@
+	How much money do you put aside every month? (in Rand)													
+Strategy	Less Than R100	Less Than R100	R101 To R200	R101 To R200	R201 To R500	R201 To R500	R501 To R1000	R501 To R1000	More Than R1000	More Than R1000	Refuse	Refuse	Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	71%	12	49%	24	47%	28	44%	14	17%	1	65%	26	52%	105
+Neutral	12%	2	10%	5	10%	6	6%	2	33%	2	8%	3	10%	20
+Optimal	18%	3	41%	20	42%	25	50%	16	50%	3	28%	11	38%	78
+Total	100%	17	100%	49	100%	59	100%	32	100%	6	100%	40	100%	203
+
+Pearson chi2(10) = 13.4997 Pr = 0.197														
+

@@ -1,0 +1,10 @@
+	Livestock					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	58%	243	100%	1	58%	244
+Neutral	11%	48	0%	0	11%	48
+Optimal	31%	131	0%	0	31%	131
+Total	100%	422	100%	1	100%	423
+
+Pearson chi2(2) = 0.7353 Pr = 0.692						
+

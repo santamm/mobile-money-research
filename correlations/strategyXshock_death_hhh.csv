@@ -1,0 +1,10 @@
+	Death Hhh					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	59%	223	44%	21	58%	244
+Neutral	11%	41	15%	7	11%	48
+Optimal	30%	111	42%	20	31%	131
+Total	100%	375	100%	48	100%	423
+
+Pearson chi2(2) = 4.3225 Pr = 0.115						
+

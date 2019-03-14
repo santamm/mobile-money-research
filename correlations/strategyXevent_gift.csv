@@ -1,0 +1,10 @@
+	receobd an inheritance/gift					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	58%	243	0%	0	58%	243
+Neutral	11%	47	100%	1	11%	48
+Optimal	31%	131	0%	0	31%	131
+Total	100%	421	100%	1	100%	422
+
+Pearson chi2(2) = 7.8102 Pr = 0.020						
+

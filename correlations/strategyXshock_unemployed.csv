@@ -1,0 +1,10 @@
+	Unemployed					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	61%	156	52%	88	58%	244
+Neutral	10%	25	14%	23	11%	48
+Optimal	29%	74	34%	57	31%	131
+Total	100%	255	100%	168	100%	423
+
+Pearson chi2(2) = 3.4945 Pr = 0.174						
+

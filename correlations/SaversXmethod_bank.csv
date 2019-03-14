@@ -1,0 +1,9 @@
+	Bank Account					
+Savers	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Small Savers <500/month	84%	36	73%	125	75%	161
+Big Savers >500/month	16%	7	27%	46	25%	53
+Total	100%	43	100%	171	100%	214
+
+Pearson chi2(1) = 2.0804 Pr = 0.149						
+

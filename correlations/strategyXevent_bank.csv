@@ -1,0 +1,10 @@
+	Opened a bank account					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	62%	164	50%	79	58%	243
+Neutral	12%	32	10%	16	11%	48
+Optimal	25%	67	40%	64	31%	131
+Total	100%	263	100%	159	100%	422
+
+Pearson chi2(2) = 10.1188 Pr = 0.006						
+

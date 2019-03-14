@@ -1,0 +1,10 @@
+	method_insurance					
+Strategy	0	0	1	1	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	53%	100	29%	4	52%	104
+Neutral	9%	16	29%	4	10%	20
+Optimal	38%	71	43%	6	38%	77
+Total	100%	187	100%	14	100%	201
+
+Pearson chi2(2) = 6.8866 Pr = 0.032						
+

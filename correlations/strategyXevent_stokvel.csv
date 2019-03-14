@@ -1,0 +1,10 @@
+	joined a Stokvel					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	63%	212	36%	31	58%	243
+Neutral	11%	36	14%	12	11%	48
+Optimal	26%	88	50%	43	31%	131
+Total	100%	336	100%	86	100%	422
+
+Pearson chi2(2) = 21.8363 Pr = 0.000						
+

@@ -1,0 +1,10 @@
+	Approach to Life									
+Strategy	Live day by day	Live day by day	I plan for the future	I plan for the future	Stability and security is everything	Stability and security is everything	I live for my family	I live for my family	Total	Total
+	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	56%	27	64%	58	57%	20	55%	137	58%	242
+Neutral	21%	10	11%	10	3%	1	11%	27	11%	48
+Optimal	23%	11	24%	22	40%	14	34%	83	31%	130
+Total	100%	48	100%	90	100%	35	100%	247	100%	420
+
+Pearson chi2(6) = 10.6890 Pr = 0.098										
+

@@ -1,0 +1,10 @@
+	Rising petrol prices					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	59%	210	48%	33	58%	243
+Neutral	11%	38	14%	10	11%	48
+Optimal	30%	105	38%	26	31%	131
+Total	100%	353	100%	69	100%	422
+
+Pearson chi2(2) = 3.2399 Pr = 0.198						
+

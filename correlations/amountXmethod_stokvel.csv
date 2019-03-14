@@ -1,0 +1,12 @@
+	Stokvel					
+How much money do you put aside every month? (in Rand)	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Less Than R100	18%	24	6%	5	14%	29
+R101 To R200	27%	37	30%	24	29%	61
+R201 To R500	36%	48	29%	23	33%	71
+R501 To R1000	16%	22	27%	21	20%	43
+More Than R1000	3%	4	8%	6	5%	10
+Total	100%	135	100%	79	100%	214
+
+Pearson chi2(4) = 10.5104 Pr = 0.033						
+

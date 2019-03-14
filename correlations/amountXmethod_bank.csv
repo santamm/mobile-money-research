@@ -1,0 +1,12 @@
+	Bank Account					
+How much money do you put aside every month? (in Rand)	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Less Than R100	23%	10	11%	19	14%	29
+R101 To R200	35%	15	27%	46	29%	61
+R201 To R500	26%	11	35%	60	33%	71
+R501 To R1000	14%	6	22%	37	20%	43
+More Than R1000	2%	1	5%	9	5%	10
+Total	100%	43	100%	171	100%	214
+
+Pearson chi2(4) = 7.0880 Pr = 0.131						
+

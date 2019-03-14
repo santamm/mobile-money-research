@@ -1,0 +1,10 @@
+	Damaged					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	59%	224	43%	20	58%	244
+Neutral	11%	42	13%	6	11%	48
+Optimal	29%	111	43%	20	31%	131
+Total	100%	377	100%	46	100%	423
+
+Pearson chi2(2) = 4.5441 Pr = 0.103						
+

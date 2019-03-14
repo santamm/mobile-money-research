@@ -1,0 +1,87 @@
+	Which of these two statements applies best to you?					
+	Save	Save	Spend	Spend	Total	Total
+	%	N	%	N	%	N
+Receive						
+No	0%	0	1%	1	0%	1
+Yes	100%	327	99%	154	100%	481
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 2.1141 Pr = 0.146						
+
+Airtime						
+No	40%	131	36%	56	39%	187
+Yes	60%	196	64%	99	61%	295
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.6847 Pr = 0.408						
+
+Facebook						
+No	71%	232	72%	112	71%	344
+Yes	29%	95	28%	43	29%	138
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.0883 Pr = 0.766						
+
+Twitter						
+No	94%	309	94%	146	94%	455
+Yes	6%	18	6%	9	6%	27
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.0181 Pr = 0.893						
+
+Bbm						
+No	91%	298	94%	146	92%	444
+Yes	9%	29	6%	9	8%	38
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 1.3576 Pr = 0.244						
+
+Email						
+No	79%	257	87%	135	81%	392
+Yes	21%	70	13%	20	19%	90
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 5.0072 Pr = 0.025						
+
+Internet						
+No	78%	256	85%	132	80%	388
+Yes	22%	71	15%	23	20%	94
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 3.1649 Pr = 0.075						
+
+Money						
+No	84%	275	86%	133	85%	408
+Yes	16%	52	14%	22	15%	74
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.2362 Pr = 0.627						
+
+Pay						
+No	96%	313	96%	149	96%	462
+Yes	4%	14	4%	6	4%	20
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.0445 Pr = 0.833						
+
+Sms						
+No	9%	29	7%	11	8%	40
+Yes	91%	298	93%	144	92%	442
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.4337 Pr = 0.510						
+
+Mxit						
+No	89%	290	88%	136	88%	426
+Yes	11%	37	12%	19	12%	56
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.0911 Pr = 0.763						
+
+Whatsapp						
+No	70%	229	70%	109	70%	338
+Yes	30%	98	30%	46	30%	144
+Total	100%	327	100%	155	100%	482
+
+Pearson chi2(1) = 0.0043 Pr = 0.948						
+

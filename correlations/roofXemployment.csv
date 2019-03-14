@@ -1,0 +1,11 @@
+	What is your current employment status?																			
+Type of Roof	Full Formal	Full Formal	Full Informal	Full Informal	Part Formal	Part Formal	Part Informal	Part Informal	Pensioner	Pensioner	Self Formal	Self Formal	Self Informal	Self Informal	Student	Student	Unemployed	Unemployed	Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N
+Asbestos	43%	31	34%	12	32%	8	38%	10	45%	13	38%	5	31%	13	52%	22	51%	124	45%	238
+Iron	35%	25	51%	18	40%	10	42%	11	24%	7	8%	1	50%	21	19%	8	33%	80	34%	181
+Tiles	21%	15	14%	5	28%	7	19%	5	31%	9	54%	7	19%	8	29%	12	16%	40	20%	108
+Wood	1%	1	0%	0	0%	0	0%	0	0%	0	0%	0	0%	0	0%	0	0%	0	0%	1
+Total	100%	72	100%	35	100%	25	100%	26	100%	29	100%	13	100%	42	100%	42	100%	244	100%	528
+
+Pearson chi2(24) = 39.4909 Pr = 0.024																				
+

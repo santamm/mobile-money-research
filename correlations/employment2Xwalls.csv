@@ -1,0 +1,10 @@
+	Type of Wall							
+Employment	Brick	Brick	Iron	Iron	Wood	Wood	Total	Total
+	%	N	%	N	%	N	%	N
+Formal	21%	78	20%	26	23%	6	21%	110
+Informal	17%	62	26%	34	23%	6	19%	102
+Unemployed	62%	232	53%	69	54%	14	60%	315
+Total	100%	372	100%	129	100%	26	100%	527
+
+Pearson chi2(4) = 6.3600 Pr = 0.174								
+

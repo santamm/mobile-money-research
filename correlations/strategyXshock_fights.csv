@@ -1,0 +1,10 @@
+	Fights					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	58%	240	50%	4	58%	244
+Neutral	11%	46	25%	2	11%	48
+Optimal	31%	129	25%	2	31%	131
+Total	100%	415	100%	8	100%	423
+
+Pearson chi2(2) = 1.5167 Pr = 0.468						
+

@@ -1,0 +1,10 @@
+	What best describes your approach to life?													
+Strategy	Day To Day	Day To Day	Family	Family	Future	Future	Myself	Myself	Now	Now	Security	Security	Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	58%	7	55%	137	64%	58	55%	18	67%	2	57%	20	58%	242
+Neutral	17%	2	11%	27	11%	10	21%	7	33%	1	3%	1	11%	48
+Optimal	25%	3	34%	83	24%	22	24%	8	0%	0	40%	14	31%	130
+Total	100%	12	100%	247	100%	90	100%	33	100%	3	100%	35	100%	420
+
+Pearson chi2(10) = 11.9124 Pr = 0.291														
+

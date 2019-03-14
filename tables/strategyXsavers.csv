@@ -1,0 +1,10 @@
+	Savers					
+Strategy	Small Savers <500/month	Small Savers <500/month	Big Savers >500/month	Big Savers >500/month	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	51%	64	39%	15	48%	79
+Neutral	10%	13	11%	4	10%	17
+Optimal	38%	48	50%	19	41%	67
+Total	100%	125	100%	38	100%	163
+
+Pearson chi2(2) = 1.7812 Pr = 0.410						
+

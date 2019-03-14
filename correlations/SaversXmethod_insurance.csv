@@ -1,0 +1,9 @@
+	Insurance					
+Savers	0	0	1	1	Total	Total
+	%	N	%	N	%	N
+Small Savers <500/month	77%	150	55%	11	75%	161
+Big Savers >500/month	23%	44	45%	9	25%	53
+Total	100%	194	100%	20	100%	214
+
+Pearson chi2(1) = 4.8475 Pr = 0.028						
+

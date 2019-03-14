@@ -1,0 +1,10 @@
+	Type of Roof									
+Employment	Asbestos	Asbestos	Iron	Iron	Tiles	Tiles	Wood	Wood	Total	Total
+	%	N	%	N	%	N	%	N	%	N
+Formal	18%	44	20%	36	27%	29	100%	1	21%	110
+Informal	15%	35	28%	50	17%	18	0%	0	20%	103
+Unemployed	67%	159	52%	95	56%	61	0%	0	60%	315
+Total	100%	238	100%	181	100%	108	100%	1	100%	528
+
+Pearson chi2(6) = 19.5383 Pr = 0.003										
+

@@ -1,0 +1,10 @@
+	Rising food prices					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	61%	190	49%	53	58%	243
+Neutral	11%	33	14%	15	11%	48
+Optimal	29%	91	37%	40	31%	131
+Total	100%	314	100%	108	100%	422
+
+Pearson chi2(2) = 4.3119 Pr = 0.116						
+

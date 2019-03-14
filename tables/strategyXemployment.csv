@@ -1,0 +1,10 @@
+	What is your current employment status?																			
+Strategy	Full Formal	Full Formal	Full Informal	Full Informal	Part Formal	Part Formal	Part Informal	Part Informal	Pensioner	Pensioner	Self Formal	Self Formal	Self Informal	Self Informal	Student	Student	Unemployed	Unemployed	Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	52%	28	39%	9	57%	13	50%	10	73%	16	42%	5	47%	17	65%	20	62%	126	58%	244
+Neutral	7%	4	9%	2	4%	1	15%	3	9%	2	25%	3	6%	2	10%	3	14%	28	11%	48
+Optimal	41%	22	52%	12	39%	9	35%	7	18%	4	33%	4	47%	17	26%	8	24%	48	31%	131
+Total	100%	54	100%	23	100%	23	100%	20	100%	22	100%	12	100%	36	100%	31	100%	202	100%	423
+
+Pearson chi2(16) = 24.9599 Pr = 0.071																				
+

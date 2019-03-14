@@ -1,0 +1,10 @@
+	Which of these two statements applies best to you?					
+Strategy	Save	Save	Spend	Spend	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	57%	165	59%	79	58%	244
+Neutral	10%	30	13%	18	11%	48
+Optimal	32%	93	28%	37	31%	130
+Total	100%	288	100%	134	100%	422
+
+Pearson chi2(2) = 1.4253 Pr = 0.490						
+

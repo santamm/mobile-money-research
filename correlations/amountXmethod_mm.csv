@@ -1,0 +1,12 @@
+	Mobile Money					
+How much money do you put aside every month? (in Rand)	0	0	1	1	Total	Total
+	%	N	%	N	%	N
+Less Than R100	14%	29	0%	0	14%	29
+R101 To R200	28%	60	33%	1	29%	61
+R201 To R500	33%	70	33%	1	33%	71
+R501 To R1000	20%	43	0%	0	20%	43
+More Than R1000	4%	9	33%	1	5%	10
+Total	100%	211	100%	3	100%	214
+
+Pearson chi2(4) = 6.3971 Pr = 0.171						
+

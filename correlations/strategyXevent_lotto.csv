@@ -1,0 +1,10 @@
+	Won at the Lotto					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	58%	242	50%	1	58%	243
+Neutral	11%	47	50%	1	11%	48
+Optimal	31%	131	0%	0	31%	131
+Total	100%	420	100%	2	100%	422
+
+Pearson chi2(2) = 3.2797 Pr = 0.194						
+

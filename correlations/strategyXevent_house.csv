@@ -1,0 +1,10 @@
+	Bought a house					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	58%	234	56%	9	58%	243
+Neutral	11%	46	12%	2	11%	48
+Optimal	31%	126	31%	5	31%	131
+Total	100%	406	100%	16	100%	422
+
+Pearson chi2(2) = 0.0239 Pr = 0.988						
+

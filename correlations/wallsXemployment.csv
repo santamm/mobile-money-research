@@ -1,0 +1,10 @@
+	What is your current employment status?																			
+Type of Wall	Full Formal	Full Formal	Full Informal	Full Informal	Part Formal	Part Formal	Part Informal	Part Informal	Pensioner	Pensioner	Self Formal	Self Formal	Self Informal	Self Informal	Student	Student	Unemployed	Unemployed	Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N	%	N
+Brick	68%	49	54%	19	68%	17	65%	17	79%	23	92%	12	63%	26	88%	37	70%	172	71%	372
+Iron	24%	17	40%	14	32%	8	27%	7	21%	6	8%	1	32%	13	7%	3	25%	60	24%	129
+Wood	8%	6	6%	2	0%	0	8%	2	0%	0	0%	0	5%	2	5%	2	5%	12	5%	26
+Total	100%	72	100%	35	100%	25	100%	26	100%	29	100%	13	100%	41	100%	42	100%	244	100%	527
+
+Pearson chi2(16) = 22.0580 Pr = 0.141																				
+

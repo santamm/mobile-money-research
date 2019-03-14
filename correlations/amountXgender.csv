@@ -1,0 +1,12 @@
+	Gender					
+How much money do you put aside every month? (in Rand)	Female	Female	Male	Male	Total	Total
+	%	N	%	N	%	N
+Less Than R100	17%	21	10%	9	14%	30
+R101 To R200	34%	42	21%	19	28%	61
+R201 To R500	28%	34	40%	37	33%	71
+R501 To R1000	18%	22	23%	21	20%	43
+More Than R1000	3%	4	7%	6	5%	10
+Total	100%	123	100%	92	100%	215
+
+Pearson chi2(4) = 9.7552 Pr = 0.045						
+

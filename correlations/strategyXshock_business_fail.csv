@@ -1,0 +1,10 @@
+	Business Fail					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	59%	233	39%	11	58%	244
+Neutral	11%	45	11%	3	11%	48
+Optimal	30%	117	50%	14	31%	131
+Total	100%	395	100%	28	100%	423
+
+Pearson chi2(2) = 5.2766 Pr = 0.071						
+

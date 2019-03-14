@@ -1,0 +1,10 @@
+	Education (Grade Passed)											
+Strategy	0-8	0-8									Total	Total
+	%	N	%	N	%	N	%	N	%	N	%	N
+Sub-optimal	60%	58	66%	21	54%	25	58%	64	55%	76	58%	244
+Neutral	14%	13	3%	1	11%	5	13%	14	11%	15	11%	48
+Optimal	26%	25	31%	10	35%	16	30%	33	34%	47	31%	131
+Total	100%	96	100%	32	100%	46	100%	111	100%	138	100%	423
+
+Pearson chi2(8) = 4.6832 Pr = 0.791												
+

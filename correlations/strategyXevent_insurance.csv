@@ -1,0 +1,10 @@
+	Got Insurance					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	59%	214	47%	29	58%	243
+Neutral	11%	39	15%	9	11%	48
+Optimal	30%	107	39%	24	31%	131
+Total	100%	360	100%	62	100%	422
+
+Pearson chi2(2) = 3.4815 Pr = 0.175						
+

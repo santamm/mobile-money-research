@@ -1,0 +1,10 @@
+	Gender					
+Strategy	Female	Female	Male	Male	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	55%	131	62%	113	58%	244
+Neutral	12%	28	11%	20	11%	48
+Optimal	34%	81	27%	50	31%	131
+Total	100%	240	100%	183	100%	423
+
+Pearson chi2(2) = 2.3591 Pr = 0.307						
+

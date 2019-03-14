@@ -1,0 +1,10 @@
+	Getting married/divorced/engaged					
+Strategy	No	No	Yes	Yes	Total	Total
+	%	N	%	N	%	N
+Sub-optimal	57%	238	71%	5	58%	243
+Neutral	11%	46	29%	2	11%	48
+Optimal	32%	131	0%	0	31%	131
+Total	100%	415	100%	7	100%	422
+
+Pearson chi2(2) = 4.2973 Pr = 0.117						
+
