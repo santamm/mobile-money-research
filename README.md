@@ -23,8 +23,11 @@ We interviewed 528 households in the Metropolitan Township of Khayelitsha, Cape 
 ## File Descriptions <a name="files"></a>
 
 All Stata scripts source files are available in the main directory with extesion .do
+
 The original survey data file is 1309_mm_data01.dta.
+
 The pre-processed data files are in the "correlations" and "tables" directory.
+
 The plots are in the "graphs" directory while the descriptive statistics pic files are in the "descriptive" subdir.
 
 
